@@ -1,0 +1,19 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$blue: rgb(0, 60, 255);
+
+
+#submit-btn {
+  background-color: $blue;
+  color: white;
+  margin-left: 0px;
+  width: 60px;
+  height: 37px;
+}
+
+#input-bar {
+  width: 300px;
+  height: 32px;
+}
